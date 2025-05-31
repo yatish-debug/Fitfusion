@@ -27,18 +27,25 @@
 git clone https://github.com/yatish-debug/Fitfusion.git
 ```
 # Install dependencies
+```
 flutter pub get
+```
 
 # Run main app
+```
 flutter run -t lib/app/app.dart
+```
 
 # Run admin panel (requires 2FA)
+```
 flutter run -t lib/app/admin_app.dart
-
+```
 ##  🔐 Admin Access 
-Username: XXXXXX001
-Password: ***********
-Permissions: Full access + User management
+1.Username: XXXXXX001
+
+2.Password: ***********
+
+3.Permissions: Full access + User management
 
 Note: First login requires OTP verification*
 
