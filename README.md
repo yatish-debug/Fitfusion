@@ -20,13 +20,12 @@
 ### Security
 - **Twilio**: SMS-based 2FA for admins
 - **JWT Tokens**: Encrypted user sessions
-```
-```
 ## 🚀 Quick Start
 
 # Clone repository
+```
 git clone https://github.com/yatish-debug/Fitfusion.git
-
+```
 # Install dependencies
 flutter pub get
 
@@ -36,9 +35,6 @@ flutter run -t lib/app/app.dart
 # Run admin panel (requires 2FA)
 flutter run -t lib/app/admin_app.dart
 
-
-```
-```
 ##  🔐 Admin Access 
 Username: XXXXXX001
 Password: ***********
@@ -65,8 +61,6 @@ MIT © [Yatish Bharambe](https://github.com/yatish-debug)
 
 📬 **Support**: support@fitfusion.tech  
 🐦 **Twitter**: [@FitFusionDev](https://twitter.com/FitFusionDev)
-```
-```
 
 **How to use this**:
 1. Click the "Copy" button (if viewing on GitHub/GitLab)
