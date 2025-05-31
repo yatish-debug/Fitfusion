@@ -61,21 +61,6 @@ MIT © [Yatish Bharambe](https://github.com/yatish-debug)
 
 📬 **Support**: support@fitfusion.tech  
 🐦 **Twitter**: [@FitFusionDev](https://twitter.com/FitFusionDev)
-
-**How to use this**:
-1. Click the "Copy" button (if viewing on GitHub/GitLab)
-2. Or manually select all text (Ctrl+A/Cmd+A)
-3. Paste into your `README.md` file
-4. Replace placeholder values (credentials, URLs) with your actual data
-
-**Key Features**:
-✅ **No diagrams/charts** - Pure markdown  
-✅ **Copy-paste ready** - Single block format  
-✅ **Emoji-enhanced** - Visual hierarchy  
-✅ **Technical yet clear** - Balanced wording  
-✅ **Ready for production** - Includes security notes  
-
-**Note**: For best rendering:
-- Keep the emojis (they render perfectly on GitHub)
-- Maintain the spacing between sections
-- Update the credentials before going live
+## IMPORTANT NOTE
+ If any one wants full project research report and also wants 
+ full project report and project powerpoint presentation with complete detailed video explaination about project just contact me on this e-mail: yhbharmbe26@gmail.com
