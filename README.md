@@ -20,17 +20,6 @@
 ### Security
 - **Twilio**: SMS-based 2FA for admins
 - **JWT Tokens**: Encrypted user sessions
-
-## 📂 Code Structure
-fitfusion/
-├── lib/
-│   ├── features/          # All major features
-│   │   ├── auth/          # Auth + 2FA flows
-│   │   ├── admin/         # Admin controls
-│   │   └── workouts/      # AI fitness logic
-│   └── core/             # Shared utilities
-├── scripts/              # Deployment helpers
-└── test/                # Comprehensive tests
 ```
 ```
 ## 🚀 Quick Start
