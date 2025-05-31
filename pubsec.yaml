@@ -1,0 +1,17 @@
+name: fitfusion
+description: Fitness app with admin panel
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.15.0
+  firebase_auth: ^4.11.0
+  http: ^1.1.0
+  provider: ^6.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter￼Enter
